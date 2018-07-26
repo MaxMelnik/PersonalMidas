@@ -1,0 +1,9 @@
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas Log Reader\bin\Debug\Personal Midas Log Reader.exe.config
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas Log Reader\bin\Debug\Personal Midas Log Reader.exe
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas Log Reader\bin\Debug\Personal Midas Log Reader.pdb
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas Log Reader\obj\Debug\Personal_Midas_Log_Reader.Form1.resources
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas Log Reader\obj\Debug\Personal_Midas_Log_Reader.Properties.Resources.resources
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas Log Reader\obj\Debug\Personal Midas Log Reader.csproj.GenerateResource.Cache
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas Log Reader\obj\Debug\Personal Midas Log Reader.csproj.CoreCompileInputs.cache
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas Log Reader\obj\Debug\Personal Midas Log Reader.exe
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas Log Reader\obj\Debug\Personal Midas Log Reader.pdb

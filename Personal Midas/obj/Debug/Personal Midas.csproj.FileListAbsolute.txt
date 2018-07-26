@@ -1,0 +1,25 @@
+D:\MyProgs\C++_C#\2017\Midas\Midas\bin\Debug\Midas.exe.config
+D:\MyProgs\C++_C#\2017\Midas\Midas\bin\Debug\Midas.exe
+D:\MyProgs\C++_C#\2017\Midas\Midas\bin\Debug\Midas.pdb
+D:\MyProgs\C++_C#\2017\Midas\Midas\bin\Debug\xNet.dll
+D:\MyProgs\C++_C#\2017\Midas\Midas\bin\Debug\xNet.xml
+D:\MyProgs\C++_C#\2017\Midas\Midas\obj\Debug\Midas.StartForm.resources
+D:\MyProgs\C++_C#\2017\Midas\Midas\obj\Debug\Midas.Properties.Resources.resources
+D:\MyProgs\C++_C#\2017\Midas\Midas\obj\Debug\Midas.Test.resources
+D:\MyProgs\C++_C#\2017\Midas\Midas\obj\Debug\Personal Midas.csproj.GenerateResource.Cache
+D:\MyProgs\C++_C#\2017\Midas\Midas\obj\Debug\Personal Midas.csproj.CoreCompileInputs.cache
+D:\MyProgs\C++_C#\2017\Midas\Midas\obj\Debug\Midas.exe
+D:\MyProgs\C++_C#\2017\Midas\Midas\obj\Debug\Midas.pdb
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\bin\Debug\xNet.dll
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\bin\Debug\xNet.xml
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\obj\Debug\Personal Midas.csprojResolveAssemblyReference.cache
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\obj\Debug\Midas.StartForm.resources
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\obj\Debug\Midas.Properties.Resources.resources
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\obj\Debug\Midas.Test.resources
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\obj\Debug\Personal Midas.csproj.GenerateResource.Cache
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\obj\Debug\Personal Midas.csproj.CoreCompileInputs.cache
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\bin\Debug\Personal Midas.exe.config
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\bin\Debug\Personal Midas.exe
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\bin\Debug\Personal Midas.pdb
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\obj\Debug\Personal Midas.exe
+D:\MyProgs\C++_C#\2017\Personal Midas\Personal Midas\obj\Debug\Personal Midas.pdb
